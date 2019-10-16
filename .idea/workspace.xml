@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a97d48f-2898-4b4f-9de5-d136223fc11f" name="Default Changelist" comment="" />
+    <list default="true" id="7a97d48f-2898-4b4f-9de5-d136223fc11f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100DaysOfCompetitiveProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/100DaysOfCompetitiveProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCompetitiveProgramming/CodeChefCOINS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/100DaysOfCompetitiveProgramming/CodeChefCOINS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCompetitiveProgramming/CodeChefPCYCLE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/100DaysOfCompetitiveProgramming/CodeChefPCYCLE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/100DaysOfCompetitiveProgramming/CodeChefTWTCLOSE.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/100DaysOfCompetitiveProgramming/CodeChefTWTCLOSE.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeChefCOINS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeChefCOINS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeChefPCYCLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeChefPCYCLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodeChefTWTCLOSE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodeChefTWTCLOSE.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +35,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -39,16 +53,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CodeChefPCYCLE">
-    <configuration name="CodeChefPCYCLE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeChefPCYCLE" />
+  <component name="RunManager" selected="Application.Rough">
+    <configuration name="HRAppendAndDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HRAppendAndDelete" />
       <module name="100DaysOfCompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CodeChefTWTCLOSE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeChefTWTCLOSE" />
+    <configuration name="HRClimbingTheLeaderboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HRClimbingTheLeaderboard" />
+      <module name="100DaysOfCompetitiveProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KickStartCherriesMesh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KickStartCherriesMesh" />
+      <module name="100DaysOfCompetitiveProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rough" />
+      <module name="100DaysOfCompetitiveProgramming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="biggerIsGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="biggerIsGreater" />
       <module name="100DaysOfCompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,8 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CodeChefPCYCLE" />
-        <item itemvalue="Application.CodeChefTWTCLOSE" />
+        <item itemvalue="Application.Rough" />
+        <item itemvalue="Application.biggerIsGreater" />
+        <item itemvalue="Application.KickStartCherriesMesh" />
+        <item itemvalue="Application.HRClimbingTheLeaderboard" />
+        <item itemvalue="Application.HRAppendAndDelete" />
       </list>
     </recent_temporary>
   </component>
@@ -86,5 +124,30 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRankPickingNumbers.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRankPickingNumbers.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HRAppendAndDelete.java</url>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HRAppendAndDelete.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

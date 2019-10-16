@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a97d48f-2898-4b4f-9de5-d136223fc11f" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/src/HackerRankQueensAttackII.java" afterDir="false" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
@@ -36,10 +40,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+=======
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,23 +64,39 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Rough">
     <configuration name="HRAppendAndDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HRAppendAndDelete" />
+=======
+  <component name="RunManager" selected="Application.HackerRankQueensAttackII">
+    <configuration name="HackerRankJumpingOnTheClouds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankJumpingOnTheClouds" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       <module name="100DaysOfCompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="HRClimbingTheLeaderboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HRClimbingTheLeaderboard" />
+=======
+    <configuration name="HackerRankNonDivisibleSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankNonDivisibleSubset" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       <module name="100DaysOfCompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="KickStartCherriesMesh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KickStartCherriesMesh" />
+=======
+    <configuration name="HackerRankQueensAttackII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HackerRankQueensAttackII" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       <module name="100DaysOfCompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,8 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="biggerIsGreater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="biggerIsGreater" />
+=======
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       <module name="100DaysOfCompetitiveProgramming" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +123,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Rough" />
         <item itemvalue="Application.biggerIsGreater" />
         <item itemvalue="Application.KickStartCherriesMesh" />
         <item itemvalue="Application.HRClimbingTheLeaderboard" />
         <item itemvalue="Application.HRAppendAndDelete" />
+=======
+        <item itemvalue="Application.HackerRankQueensAttackII" />
+        <item itemvalue="Application.HackerRankJumpingOnTheClouds" />
+        <item itemvalue="Application.Rough" />
+        <item itemvalue="Application.HackerRankNonDivisibleSubset" />
+        <item itemvalue="Application.Solution" />
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +187,34 @@
           <line>34</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+<<<<<<< HEAD
+=======
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRankNonDivisibleSubset.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRankNonDivisibleSubset.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HackerRankQueensAttackII.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+>>>>>>> 7f760837abf057405d1746dad6db9c1f8fbd39b8
       </breakpoints>
     </breakpoint-manager>
   </component>

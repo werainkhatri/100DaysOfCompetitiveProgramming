@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class HRAppendAndDelete {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        String string1 = s.nextLine().trim();
-        String string2 = s.nextLine().trim();
-        int num = s.nextInt();
+        Scanner sc = new Scanner(System.in);
+        String string1 = sc.nextLine().trim();
+        String string2 = sc.nextLine().trim();
+        int num = sc.nextInt();
         if(string1.length() < string2.length()){
             String x = string1;
             string1 = string2;
